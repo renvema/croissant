@@ -1,6 +1,6 @@
 package com.example.first.service;
 
-import com.example.first.model.Ingredient;
+import com.example.first.entity.Ingredient;
 import com.example.first.repository.IngredientRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Example;
